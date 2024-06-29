@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riez69
+- 👋 Hi, I’m @Tibees
 - 👀 I’m interested in anything about technology
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
